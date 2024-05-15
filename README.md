@@ -1,5 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
+## NAME: S ADITYA
+## REG NO: 212223040007
 # AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
